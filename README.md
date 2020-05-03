@@ -2,7 +2,7 @@ Source from : ClashOfClans
 <br>
  && **Edited by Reighpuy**
 
-Get Api Key : [Superhero](https://developer.clashofclans.com/)
+Get Api Key : [COC](https://developer.clashofclans.com/)
 
 *Usage Instruction*:
 ```
