@@ -4,7 +4,7 @@ Source from : ClashOfClans
 
 Get Api Key : [COC](https://developer.clashofclans.com/)
 
-***Usage Instuction***:
+***Usage Instruction***:
 ```python
 headers = {
   'accept': 'application/json',
