@@ -4,6 +4,7 @@ Source from : ClashOfClans
 
 Get Api Key : [COC](https://developer.clashofclans.com/)
 
+```python
 headers = {
   'accept': 'application/json',
   'cache-control': 'max-age=600',
@@ -11,3 +12,4 @@ headers = {
   'Authorization': 'Bearer (insert apikey here)'
 }
 conn.request("GET", "/v1/locations/(location_id)/rankings/players?limit=3", payload, headers)
+```
